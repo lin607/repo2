@@ -1,8 +1,0 @@
-#include<stdio.h>
-int main(){
-int a;
-scanf("%d",&a);
-printf("helloworld!");
-return 0;
-}
-// add omt soa a a
