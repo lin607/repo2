@@ -5,4 +5,4 @@ scanf("%d",&a);
 printf("helloworld!");
 return 0;
 }
-// add om
+// add omt soa a a
